@@ -1,2 +1,3 @@
 # E-commerce
-Back => npm run server
+Run server
+Back => npm start
